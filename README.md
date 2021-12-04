@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Carlos David👋
 
-- 🔭 Atualmente estou no 2º semestre de ciência da computação
+- 🔭 Atualmente acabei o 1º semestre de ciência da computação
 - ⚡ Procurando estágio para evoluir
 - 📞 contato: rubiacarlalp56@gmail.com
 
