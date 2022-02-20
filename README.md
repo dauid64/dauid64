@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente no 2º semestre de ciência da computação
 - ⚡ Procurando estágio para evoluir
-- 📞 contato: rubiacarlalp56@gmail.com
+- 📞 contato: carlosdauid64br@gmail.com
 
 ![dauid64 GitHub stats](https://github-readme-stats.vercel.app/api?username=dauid64&show_icons=true&theme=radical)
 ### Tecnologias que eu uso no meu dia
