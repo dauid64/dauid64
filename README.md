@@ -1,6 +1,7 @@
 ### Olá! Eu sou o Carlos David👋
 
 - 🔭 Atualmente no 2º semestre de ciência da computação
+- 💡 Trabalho hoje em dia com a Unreal Engine
 - ⚡ Procurando estágio para evoluir
 - 📞 contato: carlosdauid64br@gmail.com
 
