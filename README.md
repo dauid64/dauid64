@@ -2,7 +2,7 @@
 
 - 🔭 Atualmente no 2º semestre de ciência da computação
 - 💡 Trabalho hoje em dia com a Unreal Engine
-- ⚡ Procurando estágio para evoluir
+- ⚡ Procurando trabalhos para evoluir
 - 📞 contato: carlosdauid64br@gmail.com
 
 ![dauid64 GitHub stats](https://github-readme-stats.vercel.app/api?username=dauid64&show_icons=true&theme=radical)
