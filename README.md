@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Carlos David👋
 
 - 🔭 Atualmente no 3º semestre de ciência da computação
-- 💡 Estudo Atualmente Django
+- 💡  Estudo Atualmente Django
 - ⚡ Procurando trabalho para evoluir
 - 📞 contato: carlosdauid64br@gmail.com
 
