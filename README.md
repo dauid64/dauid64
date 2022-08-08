@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Carlos David👋
 
-- 🔭 Atualmente no 2º semestre de ciência da computação
-- 💡 Trabalho hoje em dia com a Unreal Engine
+- 🔭 Atualmente no 3º semestre de ciência da computação
+- 💡 Estudo Atualmente Django
 - ⚡ Procurando trabalho para evoluir
 - 📞 contato: carlosdauid64br@gmail.com
 
