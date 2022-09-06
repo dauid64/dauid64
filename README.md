@@ -1,4 +1,4 @@
-### Olá! Eu sou o Carlos David👋
+### Hello! I am Carlos David👋
 
 - 🔭 Currently in 3º computer science semester
 - 📞 Contact: carlosdauid64br@gmail.com
