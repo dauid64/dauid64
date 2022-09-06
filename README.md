@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Carlos David👋
 
-- 🔭 Atualmente no 3º semestre de ciência da computação
-- 📞 contato: carlosdauid64br@gmail.com
+- 🔭 Currently in 3º computer science semester
+- 📞 contact: carlosdauid64br@gmail.com
 
 ![dauid64 GitHub stats](https://github-readme-stats.vercel.app/api?username=dauid64&show_icons=true&theme=radical)
 ### Tecnologias que eu uso no meu dia
