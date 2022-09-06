@@ -1,10 +1,10 @@
 ### Olá! Eu sou o Carlos David👋
 
 - 🔭 Currently in 3º computer science semester
-- 📞 contact: carlosdauid64br@gmail.com
+- 📞 Contact: carlosdauid64br@gmail.com
 
 ![dauid64 GitHub stats](https://github-readme-stats.vercel.app/api?username=dauid64&show_icons=true&theme=radical)
-### Tecnologias que eu uso no meu dia
+### Technologies I use in my day
 <div>
     <img align="center" alt="Carlos-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
     <img align="center" alt="Carlos-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
