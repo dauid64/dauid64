@@ -1,4 +1,4 @@
-### Hello! I am Carlos David👋
+### Olá! Me chamo Carlos David👋
 
 - 🎓 Estudante de computação - Universidade de Brasília
 - 📞 Contato: carlosdauid64br@gmail.com
