@@ -52,7 +52,7 @@
 <div align="center">
   
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=dauid64&label=Profile%20Views&color=1&pretty=false" />
+  <img src="https://visitcount.itsvg.in/api?id=dauid64&label=Profile%20Views&color=1&icon=3&pretty=false" />
 </a>
   
 </div>
