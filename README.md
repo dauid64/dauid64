@@ -12,9 +12,7 @@
 <!--- Trophy (start) -->
 <p align="center">
 <div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
       <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=1010nishant&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
 </div>
 </p>        
 <!--- Trophy (end) -->
@@ -28,9 +26,7 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,django,js,html,css,bootstrap,mysql,go,java,c,git,docker,aws,gcp&perline=14" />
-  </a>
 </p>
 
 
@@ -51,9 +47,9 @@
 <!--profile visit count-->
 <div align="center">
   
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=dauid64&label=Profile%20Views&color=1&icon=3&pretty=false" />
-</a>
+
+<img src="https://visitcount.itsvg.in/api?id=dauid64&label=Profile%20Views&color=1&icon=3&pretty=false" />
+
   
 </div>
 
