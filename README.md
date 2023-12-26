@@ -62,7 +62,7 @@
 </div>
 <!--tech stack icons-->
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=py,django,js,react,html,css,bootstrap,go,java,c,git,docker,aws,gcp,linux&perline=15" />
+    <img src="https://skillicons.dev/icons?i=py,django,js,react,nextjs,html,css,bootstrap,go,java,c,git,docker,aws,gcp,linux&perline=15" />
 </p>
 
 
