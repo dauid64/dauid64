@@ -15,7 +15,7 @@
 
 - 🌱 I`m currently learning **create Django applications Scalables and totally professional**
 
-- ☁️ I´ve keen interest in web development. So, I´m intend learn **React**
+- ☁️ I´ve keen interest in web development. So, I´m intend learn **Next.js**
 
 - 📫 Feel free to reach me out **carlosdauid64br@gmail.com**
 
