@@ -11,11 +11,11 @@
 <!--Intro start-->
 - 🎓 Studying Computer Science (bachelor and licentiate degree) at the University of Brasilia.
 
-- 🔭 I´m currently working on **Python, Django, JavaScript, Bootstrap, PostgreSQL, Google Cloud**
+- 🔭 I´m currently working on **Python, Django, Celery, JavaScript, Bootstrap, PostgreSQL**
 
-- 🌱 I`m currently learning **create Django applications Scalables and totally professional**
+- 🌱 I`m currently learning **create web applications Scalables and totally professional**
 
-- ☁️ I´ve keen interest in web development. So, I´m intend learn **Next.js**
+- ☁️ I´ve keen interest in web development. So, I´m intend learn **Next.js** and **Go**
 
 - 📫 Feel free to reach me out **carlosdauid64br@gmail.com**
 
