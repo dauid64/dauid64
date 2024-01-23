@@ -13,7 +13,7 @@
 
 - 🔭 I´m currently working on **Python, Django, Celery, JavaScript, Bootstrap, PostgreSQL**
 
-- 🌱 I`m currently learning **create web applications Scalables and totally professional**
+- 🌱 I am currently improving my  **knowledge in scalable and high-performance web applications**
 
 - ☁️ I´ve keen interest in web development. So, I´m intend learn **Next.js** and **Go**
 
