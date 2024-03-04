@@ -15,7 +15,7 @@
 
 - 🌱 I´m currently improving my  **knowledge in scalable and high-performance web applications**
 
-- ☁️ I´ve keen interest in web development. So, I´m intend learn **Next.js** and **Go**
+- ☁️ I´ve keen interest in web development. So, I´m intend learn **Svelte** and **Go**
 
 - 📫 Feel free to reach me out **carlosdauid64br@gmail.com**
 
