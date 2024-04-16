@@ -11,7 +11,7 @@
 <!--Intro start-->
 - 🎓 Studying Computer Science (bachelor and licentiate degree) at the University of Brasilia.
 
-- 🔭 I´m currently working on **Rust, TypeScript, OpenAI**
+- 🔭 I´m currently working on **Rust, TypeScript, OpenAI, Redis, PostgreSQL**
 
 - 🌱 I´m currently improving my  **knowledge in scalable and high-performance applications**
 
