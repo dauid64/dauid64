@@ -11,11 +11,11 @@
 <!--Intro start-->
 - 🎓 Studying Computer Science (bachelor and licentiate degree) at the University of Brasilia.
 
-- 🔭 I´m currently working on **Python, Django, Celery, JavaScript, Bootstrap, PostgreSQL**
+- 🔭 I´m currently working on **Rust, TypeScript, OpenAI**
 
-- 🌱 I´m currently improving my  **knowledge in scalable and high-performance web applications**
+- 🌱 I´m currently improving my  **knowledge in scalable and high-performance applications**
 
-- ☁️ I´ve keen interest in web development. So, I´m intend learn **Svelte** and **Go**
+- ☁️ I´ve keen interest in AI. So, I´m studying **Rust** and **OpenAI**
 
 - 📫 Feel free to reach me out **carlosdauid64br@gmail.com**
 
