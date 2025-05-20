@@ -11,7 +11,7 @@
 <!--Intro start-->
 - 🎓 Studying Computer Science (bachelor and licentiate degree) at the University of Brasilia.
 
-- 🔭 I´m currently working on **Kotlin, TypeScript, Amazon Bedrock, Redis, PostgreSQL**
+- 🔭 I´m currently working on **Kotlin, Rust, TypeScript, Amazon Bedrock, Redis, PostgreSQL**
 
 - 🌱 I´m currently improving my  **knowledge in specialized AI agents and high-performance software**
 
