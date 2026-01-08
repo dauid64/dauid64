@@ -11,13 +11,11 @@
 <!--Intro start-->
 - 🎓 Studying Computer Science (bachelor and licentiate degree) at the University of Brasilia.
 
-- 🔭 I´m currently working on **Kotlin, Rust, TypeScript, Amazon Bedrock, Redis, PostgreSQL**
+- 🔭 I´m currently working on **Kotlin, Rust, TypeScript, Amazon Bedrock, Redis, PostgreSQL**.
 
-- 🌱 I´m currently improving my  **knowledge in specialized AI agents and high-performance software**
+- 🌱 I’m currently improving my **knowledge of System Design and Design Patterns**.
 
-- ☁️ I´ve keen interest in AI. So, I´m studying **Kotlin** and **Amazon Bedrock**
-
-- 📫 Feel free to reach me out **carlosdauid64br@gmail.com**
+- 📫 Feel free to reach me out **carlosdauid64br@gmail.com**.
 
 <!--Intro end-->
 
