@@ -9,7 +9,7 @@
 </div>
 
 <!--Intro start-->
-- 🎓 Studying Computer Science (bachelor and licentiate degree) at the University of Brasilia.
+- 🎓 Studying Computer Science at the University of Brasilia.
 
 - 🔭 I´m currently working on **Kotlin, Rust, TypeScript, AWS, Redis, PostgreSQL**.
 
