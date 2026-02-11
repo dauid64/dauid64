@@ -11,7 +11,7 @@
 <!--Intro start-->
 - 🎓 Studying Computer Science at the University of Brasilia.
 
-- 🔭 I´m currently working on **Kotlin, Rust, TypeScript, AWS, Redis, PostgreSQL**.
+- 🔭 I´m currently working on **Kotlin, Rust, TypeScript, AI, AWS, Redis, PostgreSQL**.
 
 - 🌱 I’m currently improving my **knowledge of System Design and Design Patterns**.
 
